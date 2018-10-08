@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FT4/FTAPI" value="1485471293000" />
+        <entry key="$PROJECT_DIR$/../../FT4/FTCE" value="1458316838000" />
+        <entry key="$PROJECT_DIR$/../../FT4/FTUI-SERVER" value="1458316720000" />
+        <entry key="$PROJECT_DIR$/../../FT4/NotificationService" value="1480391484000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
